@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;printtofile&apos; to &apos;readwritefiles&apos;&#x0A;- Original element: &apos;printtofile&apos;&#x0A;- Renamed element: &apos;printtofile&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;printtofile&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=printtofile" name="readwritefiles" references="true" stamp="1514781808524" version="1.0"/>
+</session>

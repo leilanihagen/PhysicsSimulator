@@ -1,0 +1,35 @@
+package src;
+
+import javax.swing.*;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// Create frame:
+		JFrame frame = new JFrame("Setup");
+		// Size the frame:
+		frame.setSize(480, 1200);
+		
+		// Quit the program upon closing window:
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		// Create components to put in the frame:
+		DrawPanel drawPanel = new DrawPanel();
+		drawPanel.setSize(200, 200);
+		drawPanel.setLocation(300, 0);
+		drawPanel.setVisible(true);
+		frame.add(drawPanel);
+		
+		JTextArea textArea = new JTextArea(5,20);
+		textArea.setText("Hello world1\nHello world2\nHello world3");
+		JScrollPane scrollPane = new JScrollPane(textArea);
+		textArea.setEditable(false);
+		frame.add(scrollPane);
+//		frame.pack();		
+		
+		// Display frame:
+		frame.setVisible(true);
+	}
+
+}

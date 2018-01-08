@@ -1,0 +1,7 @@
+compiler.compileProtoFiles=true
+compiler.descriptorFilePath=/Users/Leila/bin/descriptor.proto
+compiler.javaCodeGenerationEnabled=true
+compiler.protocFilePath=/Users/Leila/bin/protoc
+compiler.useProtocInCustomPath=true
+compiler.useProtocInSystemPath=false
+eclipse.preferences.version=1

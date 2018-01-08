@@ -1,0 +1,25 @@
+syntax = "proto2";
+
+message shape {
+
+	required string type = 1;
+	required float pos_x = 2;
+	required float pos_y = 3;
+	required float size_x = 4;
+	required float size_y = 5;
+	optional float vel_x = 6;
+	optional float vel_y = 7;
+	optional float accel_x = 8;
+	optional float accel_y = 9;
+}
+
+message snapshot {
+
+	required float time = 1;
+	repeated shape shapes = 2;
+}
+
+message snapshots {
+
+	repeated snapshot snapshots = 10;
+}
