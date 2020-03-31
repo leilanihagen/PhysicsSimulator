@@ -56,7 +56,7 @@ public class Main {
 				.setGravity(-9.81);
 		Snapshot snapshot1 = snapshot1Builder.build(); 
 		
-		// Creates snapshotsBuilder object (should eventually save all snapshots):
+		// Build:
 		Simulation.Builder snapshotsBuilder = Simulation.newBuilder()
 				.addSnapshots(snapshot1);
 		Simulation snapshots = snapshotsBuilder.build();
