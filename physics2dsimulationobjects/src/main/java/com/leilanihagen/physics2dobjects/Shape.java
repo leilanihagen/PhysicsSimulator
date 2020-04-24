@@ -1,7 +1,5 @@
 package physics2dsimulationobjects.src.main.java.com.leilanihagen.physics2dobjects;
 
-package physics2dsimulationobjects.src.main.java.com.leilanihagen.physics2dobjects;
-
 public abstract class Shape {
     private String type;
     private String color;
@@ -9,12 +7,16 @@ public abstract class Shape {
     private double locX;
     private double locY;
 
-    public Shape(String color, double mass, double locX, double locY) {
+    public Shape(String type, String color, double mass, double locX, double locY) {
+        this.type = type;
         this.color = color;
         this.mass = mass;
         this.locX = locX;
         this.locY = locY;
     }
+
+    @Override
+    public abstract String toString();
 
     public String getType() {
         return this.type;
@@ -45,11 +47,6 @@ public abstract class Shape {
     }
     public void setLocY(double locY) {
         this.locY = locY;
-    }
-    @Override
-    public String toString() {
-        return "Shape of type: " + type + ", color: " + color + " and mass: " + mass + " at position x="
-                + locX + ", y=" + locY + ".";
     }
 }
 
