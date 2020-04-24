@@ -49,7 +49,7 @@ public abstract class Shape {
     @Override
     public String toString() {
         return "Shape of type: " + type + ", color: " + color + " and mass: " + mass + " at position x="
-                + locX + ", y=" + locY "."
+                + locX + ", y=" + locY + ".";
     }
 }
 
