@@ -13,6 +13,11 @@ public class ForceVector {
         this.locY = locY;
     }
 
+    @Override
+    public String toString() {
+        return "Force vector of magnitude: " + magnitude + " and direction: " + direction + " at x=" + locX
+                + ", y=" + locY + '.';
+    }
     public double getMagnitude() {
         return this.magnitude;
     }
@@ -37,10 +42,4 @@ public class ForceVector {
     public void setLocY(double locY) {
         this.locY = locY;
     }
-    @Override
-    public String toString() {
-        return "Force vector of magnitude: " + magnitude + " and direction: " + direction + " at x=" + locX
-                + ", y=" + locY + '.';
-    }
-
 }
