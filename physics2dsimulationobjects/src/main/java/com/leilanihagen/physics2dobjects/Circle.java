@@ -10,7 +10,8 @@ public class Circle extends Shape {
 
     @Override
     public String toString() {
-
+        return "Shape of type: " + super.getType() + ", color: " + super.getColor() + ", mass: " + super.getMass()
+                + ", and radius: " + this.radius + " at x=" + super.getLocX() + " and y=" + super.getLocY() + ".";
     }
     public double getRadius() {
         return this.radius;
