@@ -1,42 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e178647f-e5df-40de-b0df-ee5b86f65af2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/helloworld/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/helloworld/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/learning/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/learning/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/readwritefiles/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/readwritefiles/.syncinfo.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.recommenders.news.impl/downloads/http%3A%2F%2Fwww.eclipse.org%2Fhome%2Feclipsenews.rss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/src/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/src/Main.java" afterDir="false" />
+    <list default="true" id="900d1d8d-8510-4f92-84cb-e3bce14610a0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jars/protobuf-java-3.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrawPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetupPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorldPreviewPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorldSimPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sim_data.proto" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/helloworld/bin/" />
-    <ignored path="$PROJECT_DIR$/learning/bin/" />
-    <ignored path="$PROJECT_DIR$/LWJGL_demo/bin/" />
-    <ignored path="$PROJECT_DIR$/LWJGL_Program/bin/" />
-    <ignored path="$PROJECT_DIR$/Main/" />
-    <ignored path="$PROJECT_DIR$/readwritefiles/bin/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,30 +25,222 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dplayer/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-502">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorldSimPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dplayer/src/WorldSimPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="98" column="58" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dengine/src/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1322">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dsimulator/src/main/java/com/leilanihagen/physics2dsimulator/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
+              <folding>
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Simulation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Simulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1080#1081#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Snapshot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Snapshot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForceVector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/ForceVector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1049#1050#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/physics2dsimulator/src/main/java/com/leilanihagen/physics2dsimulator/Main.java" />
+        <option value="$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Simulation.java" />
+        <option value="$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/ForceVector.java" />
+        <option value="$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Shape.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dengine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dengine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dplayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dplayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dsimulationobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dsimulationobjects" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dsimulationobjects" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="physics_simulator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="physics_simulator" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="physics2dsimulator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,16 +302,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e178647f-e5df-40de-b0df-ee5b86f65af2" name="Default" comment="" />
-      <created>1585454820142</created>
+      <changelist id="900d1d8d-8510-4f92-84cb-e3bce14610a0" name="Default" comment="" />
+      <created>1585699932179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585454820142</updated>
+      <updated>1585699932179</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -153,7 +326,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -170,6 +343,120 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/physics2dplayer/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dplayer/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dsimulator/src/main/java/com/leilanihagen/physics2dsimulator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="116" selection-start-line="21" selection-start-column="116" selection-end-line="21" selection-end-column="116" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Simulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Snapshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dplayer/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dplayer/src/WorldSimPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="98" column="58" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dengine/src/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1322">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/ForceVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics2dsimulationobjects/src/main/java/com/leilanihagen/physics2dobjects/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

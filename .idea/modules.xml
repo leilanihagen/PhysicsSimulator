@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LWJGL_Program.iml" filepath="$PROJECT_DIR$/LWJGL_Program.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LWJGL_demo.iml" filepath="$PROJECT_DIR$/LWJGL_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Main.iml" filepath="$PROJECT_DIR$/Main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloworld.iml" filepath="$PROJECT_DIR$/helloworld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/readwritefiles.iml" filepath="$PROJECT_DIR$/readwritefiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Physics_Simulator.iml" filepath="$PROJECT_DIR$/Physics_Simulator.iml" />
     </modules>
   </component>
 </project>
