@@ -1,4 +1,4 @@
-package physics2dobjects.src.main.java.com.leilanihagen.physics2dobjects;
+package com.leilanihagen.physics2dobjects;
 
 public abstract class Shape {
     private int id;
@@ -24,7 +24,7 @@ public abstract class Shape {
             shapesCount = 1;
         }
         else {
-            shapesCount += shapesCount;
+            shapesCount++;
         }
         return shapesCount;
     }

@@ -1,4 +1,4 @@
-package physics2dobjects.src.main.java.com.leilanihagen.physics2dobjects;
+package com.leilanihagen.physics2dobjects;
 
 public class Circle extends Shape {
     private double radius;
@@ -10,8 +10,9 @@ public class Circle extends Shape {
 
     @Override
     public String toString() {
-        return "Shape of type: " + super.getType() + ", color: " + super.getColor() + ", mass: " + super.getMass()
-                + ", and radius: " + this.radius + " at x=" + super.getLocX() + " and y=" + super.getLocY() + ".";
+        return "Shape, id=" + super.getId() + ", of type: " + super.getType() + ", color: " + super.getColor()
+                + ", mass: " + super.getMass() + ", and radius: " + this.radius + " at x=" + super.getLocX()
+                + " and y=" + super.getLocY() + ".";
     }
     public double getRadius() {
         return this.radius;

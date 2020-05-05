@@ -1,4 +1,4 @@
-package physics2dobjects.src.main.java.com.leilanihagen.physics2dobjects;
+package com.leilanihagen.physics2dobjects;
 
 public class Rectangle extends Shape {
     private double width;
@@ -12,9 +12,9 @@ public class Rectangle extends Shape {
 
     @Override
     public String toString() {
-        return "Shape of type: " + super.getType() + ", color: " + super.getColor() + ", mass: " + super.getMass()
-                + ", width: " + this.width + ", and height: " + this.height + " at x=" + super.getLocX()
-                + " and y=" + super.getLocY() + ".";
+        return "Shape, id=" + super.getId() + ", of type: " + super.getType() + ", color: " + super.getColor()
+                + ", mass: " + super.getMass() + ", width: " + this.width + ", and height: " + this.height
+                + " at x=" + super.getLocX() + " and y=" + super.getLocY() + ".";
     }
     public double getWidth() {
         return this.width;

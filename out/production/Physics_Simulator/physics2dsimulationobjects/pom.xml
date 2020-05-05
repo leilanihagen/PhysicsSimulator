@@ -1,0 +1,11 @@
+<parent>
+	<groupID>com.leilanihagen.physics2d</groupId>
+	<artifactId>physics2d</artifactId>
+	<version>1.0</version>
+</parent>
+
+<groupId>com.leilanihagen.physics2dobjects</groupId>
+<artifactId>physics2dobjects</artifactId>
+<version>1.0</version>
+<packaging>jar</packaging>
+<name>physics2dobjects</name>
